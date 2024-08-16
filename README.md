@@ -25,7 +25,7 @@ git config --global user.password
 
 # 设置全局的账号密码
 
-git config --global user.name chenjian
+git config --global user.name xxxxx
 git config --global user.password xxxxxxxx
 
 ```
